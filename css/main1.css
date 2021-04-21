@@ -11,6 +11,7 @@ body{
     background: #000;
 }
 img{
+    box-shadow: 0 0 5px white;
     position: absolute;
     width: 200px;
     height: 250px;
